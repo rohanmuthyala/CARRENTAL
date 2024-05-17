@@ -7,3 +7,5 @@ def get_logged_in_user_id():
 def set_logged_in_user_id(user_id):
     global logged_in_user_id
     logged_in_user_id = user_id
+    
+    #test
